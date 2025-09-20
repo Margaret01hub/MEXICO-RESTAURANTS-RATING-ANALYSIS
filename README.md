@@ -16,7 +16,7 @@ PowerBi
 1) Total Number of Consumers- 138       2) Total Number of Restaurants- 130          3) Average Overall Rating- 1.15                4) Total No of Cuisine Demand- 26             5) Total No Available Cuisine- 21
 
 # Dashbaord
--<a href="https://github.com/Margaret01hub/MEXICO-RESTAURANTS-RATING-ANALYSIS/blob/main/MEXICO%20RESTAURANTS%20RATING%20ANALYSIS%20DASHBOARD.png">Dataset<a/>
+-<a href="https://github.com/Margaret01hub/MEXICO-RESTAURANTS-RATING-ANALYSIS/blob/main/DASHBOARD-%20MEXICO%20RESTAURANTS%20RATING%20ANALYSIS.png">Dataset<a/>
 
 ## Analysis Questions & Insights
 ## 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings? 
@@ -29,7 +29,8 @@ PowerBi
  Answer = If I were to invest in a restaurant, I would be looking to open new restaurant(s) in areas where demand is high but supply is lagging, serving consumers preferred cuisines that are not available in the existing market. Investing in available restaurants, I would focus on medium priced, with little to no alcohol service restaurants with single, young consumers as my target group in Morelos State.
 
 # DASHBOARD
-<img width="1503" height="839" alt="MEXICO RESTAURANTS RATING ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/38e5d5f2-6fce-4f3c-8f54-3267dd58e562" />
+<img width="1395" height="757" alt="DASHBOARD- MEXICO RESTAURANTS RATING ANALYSIS" src="https://github.com/user-attachments/assets/d925aded-0247-4b59-b7a2-462608768703" />
+
 
 ## Recommendations for Restaurant Owners & Investors
 1. Service and Food Quality: Staff reorganization and training. Menu quality and restaurants aesthetics should be upgraded.
