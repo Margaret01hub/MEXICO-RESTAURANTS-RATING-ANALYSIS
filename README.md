@@ -39,5 +39,6 @@ PowerBi
 
 ## Conclusion
 The analysis shows that consumer demand for cuisines in Mexico is greater than the available cuisine supply, providing opportunities for new restaurant investments and upgrade. Restaurants with better food and service quality, achieve higher ratings, indicating these as key drivers of customer satisfaction. Consumer demographics show a large base of young, single, casual drinking customers with medium budgets, while older consumers show higher spending capacity.
+
 For investors, this means opening restaurants that target high demand but undersupplied cuisines, focusing on medium priced services with little to no alcohol service, especially in states like Morelos, will likely bring the best Return on Investment (ROI). By improving menu quality, service standards, and aligning prices with consumer budgets, restaurant owners and investors can take advantage of unmet demand and position themselves strongly in Mexico’s Restaurant industry.
 
