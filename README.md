@@ -29,7 +29,7 @@ PowerBi
  Answer = If I were to invest in a restaurant, I would be looking to open new restaurant(s) in areas where demand is high but supply is lagging, serving consumers preferred cuisines that are not available in the existing market. Investing in available restaurants, I would focus on medium priced, with little to no alcohol service restaurants with single, young consumers as my target group in Morelos State.
 
 # DASHBOARD
-<img width="1395" height="757" alt="DASHBOARD- MEXICO RESTAURANTS RATING ANALYSIS" src="https://github.com/user-attachments/assets/d925aded-0247-4b59-b7a2-462608768703" />
+<img width="1395" height="757" alt="DASHBOARD- MEXICO RESTAURANTS RATING ANALYSIS" src="https://github.com/user-attachments/assets/202200b5-8a90-4b8d-8e45-c9cf9f1d1e13" />
 
 
 ## Recommendations for Restaurant Owners & Investors
