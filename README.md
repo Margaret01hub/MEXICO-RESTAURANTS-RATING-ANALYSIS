@@ -16,7 +16,7 @@ PowerBi
 1) Total Number of Consumers- 138       2) Total Number of Restaurants- 130          3) Average Overall Rating- 1.15                4) Total No of Cuisine Demand- 26             5) Total No Available Cuisine- 21
 
 # Dashbaord
--<a href="https://github.com/Margaret01hub/MEXICO-RESTAURANTS-RATING-ANALYSIS/blob/main/DASHBOARD-%20MEXICO%20RESTAURANTS%20RATING%20ANALYSIS.png">Dataset<a/>
+-<a href="https://github.com/Margaret01hub/MEXICO-RESTAURANTS-RATING-ANALYSIS/blob/main/DASHBOARD-%20MEXICO%20RESTAURANTS%20RATING%20ANALYSIS.png">Dashboard<a/>
 
 ## Analysis Questions & Insights
 ## 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings? 
