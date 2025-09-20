@@ -19,14 +19,14 @@ PowerBi
 -<a href="https://github.com/Margaret01hub/MEXICO-RESTAURANTS-RATING-ANALYSIS/blob/main/MEXICO%20RESTAURANTS%20RATING%20ANALYSIS%20DASHBOARD.png">Dataset<a/>
 
 ## Analysis Questions & Insights
-What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings? 
-## Result = Insights show that restaurants with better food quality tend to have higher ratings. This indicates that consumer preferences (good food and service quality) strongly influence ratings.
- 2.What are the consumer demographics? Does this indicate a bias in the data sample?
-## Result = By consumers Age Group, Budget, Drink Level and Marital Status, it reveals that younger consumers (18-24 years old) have smaller budgets while older consumers have higher spending capacity. Also, revealing higher population of single, casual drinking consumers, indicating a higher representation of single, young and casual drinking consumers with medium budget in the data sample.
- 3. Are there any demand & supply gaps that you can exploit in the market?
-## Result = Analysis results show that the demand for cuisines is greater than its supply. This indicates a shortage of available restaurants to satisfy consumer preferences.  This means there’s an opportunity for investors to open new restaurants in areas where demand is high but supply is lagging.
-4.If you were to invest in a restaurant, which characteristics would you be looking for?
-## Answer = If I were to invest in a restaurant, I would be looking to open new restaurant(s) in areas where demand is high but supply is lagging, serving consumers preferred cuisines that are not available in the existing market. Investing in available restaurants, I would focus on medium priced, with little to no alcohol service restaurants with single, young consumers as my target group in Morelos State.
+## 1. What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings? 
+ Result = Insights show that restaurants with better food quality tend to have higher ratings. This indicates that consumer preferences (good food and service quality) strongly influence ratings.
+##  2.What are the consumer demographics? Does this indicate a bias in the data sample?
+ Result = By consumers Age Group, Budget, Drink Level and Marital Status, it reveals that younger consumers (18-24 years old) have smaller budgets while older consumers have higher spending capacity. Also, revealing higher population of single, casual drinking consumers, indicating a higher representation of single, young and casual drinking consumers with medium budget in the data sample.
+## 3. Are there any demand & supply gaps that you can exploit in the market?
+ Result = Analysis results show that the demand for cuisines is greater than its supply. This indicates a shortage of available restaurants to satisfy consumer preferences.  This means there’s an opportunity for investors to open new restaurants in areas where demand is high but supply is lagging.
+## 4. If you were to invest in a restaurant, which characteristics would you be looking for?
+ Answer = If I were to invest in a restaurant, I would be looking to open new restaurant(s) in areas where demand is high but supply is lagging, serving consumers preferred cuisines that are not available in the existing market. Investing in available restaurants, I would focus on medium priced, with little to no alcohol service restaurants with single, young consumers as my target group in Morelos State.
 
 # DASHBOARD
 <img width="1503" height="839" alt="MEXICO RESTAURANTS RATING ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/38e5d5f2-6fce-4f3c-8f54-3267dd58e562" />
